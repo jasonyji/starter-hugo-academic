@@ -1,6 +1,6 @@
 ---
 title: Yi JI 計懿
-role: CUHK Undergraduate Student
+role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: My research interests include social media, artificial intelligence.
 interests:
@@ -29,19 +29,16 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BBA in Integrated BBA
+      institution: The Chinese University of Hong Kong
+      year: 2024
+    - course: BSc in Computer Science
+      institution: The Chinese University of Hong Kong
+      year: 2023
 superuser: true
 status:
   icon: ☕️
