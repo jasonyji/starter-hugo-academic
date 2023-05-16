@@ -29,7 +29,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: The Chinese University of Hong Kong
+  - name: Chinese University of Hong Kong
     url: https://www.cuhk.edu.hk/
 education:
   courses:
