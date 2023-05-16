@@ -16,12 +16,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://jasonyji.github.io/
+    link: https://github.com/jasonyji
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yi-ji-b45ab31ab/
